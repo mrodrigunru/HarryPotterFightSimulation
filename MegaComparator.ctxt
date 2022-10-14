@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=MegaComparator
+comment0.text=\r\n\ The\ abstract\ class\ for\ accesing\ the\ other\ comparators\ for\ Houses\r\n\ Nombre\ del\ grupo\:\ Dep\u00E9\ SL\r\n\ @author\ Daniel\ Corzo\ Gonzalez,\ Angel\ Romero\ Trigo\ &\ Manuel\ Rodriguez\ Rodriguez\r\n\ \r\n\ @version\ 1.0\r\n
+comment1.params=c1\ c2
+comment1.target=int\ compare(Character,\ Character)
+numComments=2

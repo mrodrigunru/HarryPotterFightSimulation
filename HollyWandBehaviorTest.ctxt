@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=HollyWandBehaviorTest
+comment0.text=\r\n\ The\ test\ class\ HollyWandBehaviorTest.\r\n\r\n\ @author\ \ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=HollyWandBehaviorTest()
+comment1.text=\r\n\ Default\ constructor\ for\ test\ class\ HollyWandBehaviorTest\r\n
+comment2.params=
+comment2.target=void\ setUp()
+comment2.text=\r\n\ Sets\ up\ the\ test\ fixture.\r\n\r\n\ Called\ before\ every\ test\ case\ method.\r\n
+comment3.params=
+comment3.target=void\ testgetAtkPoints()
+comment4.params=
+comment4.target=void\ testgetResPoints()
+comment5.params=
+comment5.target=void\ testgetName()
+comment6.params=
+comment6.target=void\ tearDown()
+comment6.text=\r\n\ Tears\ down\ the\ test\ fixture.\r\n\r\n\ Called\ after\ every\ test\ case\ method.\r\n
+numComments=7

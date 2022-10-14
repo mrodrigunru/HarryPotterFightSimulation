@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Potion
+comment0.text=\r\n\ The\ model\ of\ a\ Wand\ with\ all\ its\ characteristics\r\n\ Nombre\ del\ grupo\:\ Dep\u00E9\ SL\r\n\ @author\ Daniel\ Corzo\ Gonzalez,\ Angel\ Romero\ Trigo\ &\ Manuel\ Rodriguez\ Rodriguez\ \r\n\ @version\ 1.0\r\n
+comment1.params=w
+comment1.target=void\ usePotion(Character)
+comment1.text=\r\n\ It\ applies\ the\ potion\ characteristics\ to\ a\ wizard\ \r\n\ @param\ w\ The\ wizard\ who\ will\ be\ assigned\ the\ potion\ to\r\n
+numComments=2

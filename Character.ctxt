@@ -1,0 +1,55 @@
+#BlueJ class context
+comment0.target=Character
+comment0.text=\r\n\ Model\ some\ details\ of\ the\ Wizard\r\n\ Nombre\ del\ grupo\:\ Dep\u00E9\ SL\r\n\ @author\ Daniel\ Corzo\ Gonz\u00E1lez,\ \u00C1ngel\ Romero\ Trigo\ &\ Manuel\ Rodriguez\ Rodriguez\r\n\ @version\ 1.0\r\n
+comment1.params=name\ w
+comment1.target=Character(java.lang.String,\ Wand)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Character\r\n\ \r\n\ @param\ name\ The\ name\ of\ the\ wizard\r\n\ @param\ w\ The\ wand\ assigned\ to\ the\ wizard\r\n
+comment10.params=
+comment10.target=java.lang.String\ getName()
+comment10.text=\r\n\ PRE\:{name\ has\ to\ be\ initialized}\r\n\ POST\:{Returns\ a\ string}\r\n\ It\ gets\ name\ of\ the\ wizard\ \r\n\ \r\n\ @return\ the\ name\ of\ the\ wizard\r\n
+comment11.params=
+comment11.target=Wand\ getWand()
+comment11.text=\r\n\ PRE\:{Wand\ has\ to\ be\ initialized}\r\n\ POST\:{Returns\ a\ Wand}\r\n\ It\ gets\ the\ wand\ of\ the\ wizard\ \r\n\ \r\n\ @return\ the\ wand\ of\ the\ wizard\r\n
+comment12.params=p
+comment12.target=void\ setOffensiveP(double)
+comment12.text=\r\n\ PRE\:{OffensiveP\ has\ to\ be\ inicialized}\r\n\ POST\:{void\ return}\r\n\ It\ sets\ the\ offensive\ points\ of\ the\ wizard\ \r\n\ @param\ p\ the\ new\ value\ of\ Offensive\ points\r\n\ \r\n
+comment13.params=p
+comment13.target=void\ setDefensiveP(double)
+comment13.text=\r\n\ PRE\:{DefensiveP\ has\ to\ be\ inicialized}\r\n\ POST\:{void\ return}\r\n\ It\ sets\ the\ defensive\ points\ of\ the\ wizard\ \r\n\ @param\ p\ the\ new\ value\ of\ Defensive\ points\r\n\ \r\n
+comment14.params=p
+comment14.target=void\ setEnergyP(double)
+comment14.text=\r\n\ PRE\:{energyP\ has\ to\ be\ inicialized}\r\n\ POST\:{void\ return}\r\n\ It\ sets\ the\ energy\ points\ of\ the\ wizard\ \r\n\ @param\ p\ the\ new\ value\ of\ energy\ points,\ p<\=0\r\n\ \ \ \ \ \ \ \ \ \ \r\n\ \r\n
+comment15.params=
+comment15.target=void\ usePoti()
+comment15.text=\r\n\ PRE\:{There\ must\ be\ a\ potion\ tu\ use}\r\n\ POST\:{void\ return}\r\n\ It\ uses\ a\ potion\r\n\ \r\n
+comment16.params=number\ digits
+comment16.target=double\ decimals(double,\ int)
+comment16.text=\r\n\ @param\ number\ the\ number\ which\ precision\ we\ want\ to\ correct\r\n\ @param\ digits\ the\ number\ of\ decimals\ we\ want\ number\ to\ have\r\n\ \r\n\ @return\ the\ number\ with\ his\ presision\ corrected\r\n
+comment17.params=
+comment17.target=java.lang.String\ toString()
+comment17.text=\r\n\ PRE\:{the\ object\ must\ be\ created}\ \r\n\ POST\:{it\ converts\ an\ objetc\ to\ a\ string}\r\n\ It\ returns\ a\ string\r\n\ @return\ The\ object\ converted\ into\ a\ string\r\n
+comment2.params=w
+comment2.target=void\ assignWand(Wand)
+comment2.text=\r\n\ PRE\:\ {w\ has\ to\ be\ initialized}\r\n\ POST\ \:{void\ return}\r\n\ Assigns\ a\ wand\ to\ a\ character\r\n\ \r\n\ @param\ w\ The\ wand\ which\ is\ going\ to\ be\ assigned\r\n
+comment3.params=
+comment3.target=void\ deleteWand()
+comment3.text=\r\n\ PRE\:{wand\ \!\=\ null}\r\n\ POST\:{void\ return}\r\n\ It\ deletes\ a\ wand\r\n
+comment4.params=p
+comment4.target=void\ assignPoti(Potion)
+comment4.text=\r\n\ PRE\:\ {p\ has\ to\ be\ initialized}\r\n\ POST\ \:{void\ return}\r\n\ @param\ p\ The\ potion\ which\ is\ going\ to\ be\ used\r\n
+comment5.params=
+comment5.target=Potion\ getPoti()
+comment5.text=\r\n\ PRE\:\ {p\ has\ to\ be\ initialized}\r\n\ POST\ \:{\ return\ a\ potion\ }\r\n
+comment6.params=
+comment6.target=double\ getDefensiveP()
+comment6.text=\r\n\ PRE\:{DefensiveP>0}\r\n\ POST\:{Returns\ a\ double}\r\n\ It\ gets\ the\ defensive\ points\ of\ the\ wizard\ \r\n\ \r\n\ @return\ the\ defensive\ points\ of\ the\ wizard\r\n
+comment7.params=
+comment7.target=double\ getOffensiveAndDefensiveP()
+comment7.text=\r\n\ PRE\:{DefensiveP>0\ &&\ Offensive\ >0}\r\n\ POST\:{Returns\ a\ double}\r\n\ It\ gets\ the\ defensive\ points\ plus\ the\ offensive\ points\ of\ the\ wizard\ \r\n\ \r\n\ @return\ the\ defensive\ plus\ the\ offnsive\ \ points\ of\ the\ wizard\r\n
+comment8.params=
+comment8.target=double\ getOffensiveP()
+comment8.text=\r\n\ PRE\:{OffensiveP>0}\r\n\ POST\:{Returns\ a\ double}\r\n\ It\ gets\ the\ offensive\ points\ of\ the\ wizard\ \r\n\ \r\n\ @return\ the\ offensive\ points\ of\ the\ wizard\r\n
+comment9.params=
+comment9.target=double\ getEnergyP()
+comment9.text=\r\n\ PRE\:{EnergyP>\=0}\r\n\ POST\:{Returns\ a\ double}\r\n\ It\ gets\ the\ Energy\ points\ of\ the\ wizard\ \r\n\ \r\n\ @return\ the\ Energy\ points\ of\ the\ wizard\r\n
+numComments=18

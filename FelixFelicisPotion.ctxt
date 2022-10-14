@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FelixFelicisPotion
+comment0.text=\r\n\ A\ model\ of\ an\ Ofensive\ Potion\r\n\ Nombre\ del\ grupo\:\ Dep\u00E9\ SL\r\n\ @author\ Daniel\ Corzo\ Gonzalez,\ \u00C1ngel\ Romero\ Trigo\ &\ Manuel\ Rodriguez\ Rodriguez\r\n\ @version\ 1.0\r\n
+comment1.params=w
+comment1.target=void\ usePotion(Character)
+comment1.text=\r\n\ It\ uses\ the\ potion\ and\ modifies\ the\ characteristics\ of\ a\ character\r\n\ @param\ w\ The\ wizard\ who\ will\ be\ assigned\ the\ potion\ to\r\n
+numComments=2

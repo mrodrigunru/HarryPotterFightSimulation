@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=InitData2
+comment0.text=\r\n\ Initial\ data\ from\ the\ game\r\nNombre\ del\ grupo\:\ Dep\u00E9\ SL\r\n\ @author\ Daniel\ Corzo\ Gonz\u00E1lez,\ \u00C1ngel\ Romero\ Trigo\ &\ Manuel\ Rodriguez\ Rodriguez\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=InitData2()
+comment1.text=\r\n\ PRE\:{All\ the\ clases\ must\ be\ initialized}\r\n\ POST\:{It\ doesnt's\ return\ any\ error}\r\n\ \r\n\ It\ creates\ all\ the\ objects\ used\ on\ the\ game\r\n\ \r\n\ @throws\ IOException\r\n
+comment2.params=
+comment2.target=void\ main()
+comment2.text=\r\n\ The\ main\ module\ of\ the\ game\r\n\ Provide\ a\ very\ simple\ demonstration\ of\ how\ the\ game\r\n\ might\ be\ used.\ Details\ of\ each\ class\ are\ shown,\ the\r\n\ figh\ beguns,\ and\ then\ the\ details\ of\ the\ winner\ are\ shown\r\n\ \r\n\ @throws\ IOException\ if\ there\ is\ an\ error\ in\ Input/Output\ operations\r\n
+numComments=3

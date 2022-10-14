@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Wand
+comment0.text=\r\n\ The\ model\ of\ a\ Wand\ with\ all\ its\ characteristics\r\n\ Nombre\ del\ grupo\:\ Dep\u00E9\ SL\r\n\ @author\ Daniel\ Corzo\ Gonzalez,\ Angel\ Romero\ Trigo\ &\ Manuel\ Rodriguez\ Rodriguez\ \r\n\ @version\ 1.0\r\n
+comment1.params=name
+comment1.target=Wand(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Wand\r\n\ \r\n\ @param\ name\ The\ name\ of\ the\ wand\r\n
+comment2.params=energy\ offensive
+comment2.target=double\ getAtkPoints(double,\ double)
+comment2.text=\r\n\ PRE\:{atkPoints\ must\ be\ initialized}\r\n\ POST\:{Returns\ a\ double}\ \r\n\ It\ returns\ the\ attack\ points\r\n\ @return\ the\ attack\ points\r\n\ \r\n
+comment3.params=energy\ defense
+comment3.target=double\ getResPoints(double,\ double)
+comment3.text=\r\n\ PRE\:{resPoints\ must\ be\ initialized}\r\n\ POST\:{Returns\ a\ double}\ \r\n\ It\ returns\ the\ resistance\ points\r\n\ @return\ the\ resistance\ points\r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ PRE\:{name\ has\ to\ be\ initialized}\r\n\ POST\:{returns\ a\ string}\r\n\ It\ returns\ the\ name\ of\ the\ wand\r\n\ @return\ the\ name\ of\ the\ wand\r\n
+comment5.params=energy\ offensive
+comment5.target=void\ atkMode(double,\ double)
+comment5.text=\r\n\ It\ prepares\ the\ attack\ mode\ \r\n
+comment6.params=energy\ defense
+comment6.target=void\ defMode(double,\ double)
+comment6.text=\r\n\ It\ prepares\ the\ defensive\ mode\ \r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ PRE\:{the\ object\ must\ be\ created}\ \r\n\ POST\:{it\ converts\ an\ objetc\ to\ a\ string}\r\n\ It\ returns\ a\ string\r\n\ @return\ The\ object\ converted\ into\ a\ string\r\n
+numComments=8
